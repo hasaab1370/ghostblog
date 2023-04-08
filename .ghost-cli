@@ -2,6 +2,5 @@
   "active-version": "5.42.2",
   "cli-version": "1.24.0",
   "channel": "stable",
-  "name": "myncloudassi-com",
-  "running": "production"
+  "name": "myncloudassi-com"
 }
